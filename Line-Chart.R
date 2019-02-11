@@ -1,5 +1,10 @@
-# Data for the chart, hardcoded here 
-# available at https://www.esrl.noaa.gov/psd/enso/mei/table.html
+#############################  
+##   Line Chart            ##
+##   by do-me 31.05.2018   ##
+#############################  
+
+# Data for the chart available at https://www.esrl.noaa.gov/psd/enso/mei/table.html, hardcoded here
+
 valMEI<- c(-1.03,-1.133,-1.283,-1.071,-1.445,-1.376,-1.267,-1.03,-.597,-.406,-1.138,-1.235
        ,-1.049,-1.152,-1.178,-.511,-.374,.319,.676,.842,.773,.768,.726,.504
        ,.433,.138,.071,.224,-.307,-.722,-.307,-.358,.347,.306,-.328,-.098
